@@ -1,118 +1,152 @@
-<div align="center">
+::: {align="center"}
+```{=html}
+<!-- Replace YOUR_GITHUB_USERNAME below with your exact GitHub username. -->
+```
+`<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2800&pause=900&color=00F7A5&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Abu+Said+%F0%9F%91%8B;AI+Tools+%7C+Web+Apps+%7C+Browser+Extensions;Ethical+Cybersecurity+%7C+Useful+Digital+Tools;Turning+ideas+into+real+projects+%E2%9A%A1" alt="Animated typing intro" />`{=html}
 
-<!-- SAID DEVELOPER | GitHub Profile README -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Said+Developer;Open-Source+Builder;Developer+%7C+Security+Enthusiast;Building+useful+tools+for+everyone" alt="Typing SVG" />
+`<br>`{=html}
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=180&color=0:090B18,50:102A43,100:00E5FF&text=SAID%20DEVELOPER&fontColor=FFFFFF&fontSize=42&fontAlignY=55&animation=fadeIn&stroke=00E5FF&strokeWidth=1" width="100%" alt="Said Developer banner" />
+`<img src="https://img.shields.io/badge/FOCUS-AI%20%26%20AUTOMATION-00F7A5?style=for-the-badge&labelColor=0B1020" alt="AI and automation">`{=html}
+`<img src="https://img.shields.io/badge/BUILDING-WEB%20APPS-7C3AED?style=for-the-badge&labelColor=0B1020" alt="Web apps">`{=html}
+`<img src="https://img.shields.io/badge/SECURITY-ETHICAL-22C55E?style=for-the-badge&labelColor=0B1020" alt="Ethical security">`{=html}
 
-<p>
-  <b>Developer • Open-Source Builder • Security Research Enthusiast</b><br/>
-  Creating practical tools, browser extensions, and privacy-focused projects.
-</p>
+`<br>`{=html}`<br>`{=html}
 
-<a href="https://github.com/saiddeveloper660">
-  <img src="https://img.shields.io/badge/GitHub-saiddeveloper660-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://www.saidddeveloper.com">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-00C7D9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
-</a>
+### `> Ideas → Code → Useful Tools_`
 
-</div>
+*I build practical digital experiences: AI-powered websites, useful
+apps, browser extensions, and security-learning projects.*
+:::
 
----
+------------------------------------------------------------------------
 
-## `whoami` — About Me
+## 🖥️ `SYSTEM_PROFILE`
 
-```bash
-┌──(said㉿github)-[~]
-└─$ whoami
-Said Developer
-
-└─$ cat mission.txt
-Build useful, privacy-aware, open-source software.
-Learn continuously. Share knowledge. Make technology accessible.
+``` text
+┌──────────────────────────────────────────────────────────────┐
+│  ABU SAID  /  DEVELOPER PROFILE                         ● ● ● │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│  ROLE       : AI & Web Tools Developer                       │
+│  INTERESTS  : Artificial Intelligence, Automation            │
+│               Web Applications, Browser Extensions           │
+│               Ethical Cybersecurity                          │
+│  MISSION    : Build useful tools for real people             │
+│  MINDSET    : Learn • Build • Improve • Repeat               │
+│  PRINCIPLE  : Create responsibly and respect privacy         │
+│                                                              │
+│  STATUS     : Always learning...                             │
+└──────────────────────────────────────────────────────────────┘
 ```
 
-- I build useful apps, browser extensions, and developer tools.
-- Interested in open-source software, web development, and ethical security research.
-- I enjoy turning ideas into practical projects that solve real problems.
-- My goal: build tools that are useful, reliable, and respectful of user privacy.
+## ⚡ What I Build
 
-> Security work is performed only on systems I own or have explicit permission to test.
-
-## `./featured-projects` — Featured Projects
-
+```{=html}
 <table>
-  <tr>
-    <td width="50%">
-      <h3><a href="https://github.com/saiddeveloper660/said-full-screen">⛶ Said Full Screen</a></h3>
-      A browser extension designed to make browsing more immersive with fullscreen support.
-      <br/><br/>
-      <a href="https://github.com/saiddeveloper660/said-full-screen"><img src="https://img.shields.io/badge/Explore-Repository-00C7D9?style=flat-square&logo=github" alt="Explore Said Full Screen"/></a>
-    </td>
-    <td width="50%">
-      <h3><a href="https://github.com/saiddeveloper660/Said-Background-Recorder">◉ Said Background Recorder</a></h3>
-      A background video recording project. Check the repository for its current capabilities and permissions.
-      <br/><br/>
-      <a href="https://github.com/saiddeveloper660/Said-Background-Recorder"><img src="https://img.shields.io/badge/Explore-Repository-00C7D9?style=flat-square&logo=github" alt="Explore Background Recorder"/></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3><a href="https://github.com/saiddeveloper660/Said-Password-Manager-">🔐 Said Password Manager</a></h3>
-      A password-management project. See the repository for its current features and security notes.
-      <br/><br/>
-      <a href="https://github.com/saiddeveloper660/Said-Password-Manager-"><img src="https://img.shields.io/badge/Explore-Repository-00C7D9?style=flat-square&logo=github" alt="Explore Password Manager"/></a>
-    </td>
-    <td width="50%">
-      <h3><a href="https://github.com/saiddeveloper660/search-everywhere-pro">⌕ Search Everywhere Pro</a></h3>
-      A privacy-minded browser extension for searching across multiple websites.
-      <br/><br/>
-      <a href="https://github.com/saiddeveloper660/search-everywhere-pro"><img src="https://img.shields.io/badge/Explore-Repository-00C7D9?style=flat-square&logo=github" alt="Explore Search Everywhere Pro"/></a>
-    </td>
-  </tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td width="50%">
+```
+### 🤖 AI & Automation
+
+AI-powered websites, assistants, productivity tools, and smart
+workflows.
+
+```{=html}
+</td>
+```
+```{=html}
+<td width="50%">
+```
+### 🌐 Websites & Web Apps
+
+Modern, responsive websites and interactive web experiences.
+
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td width="50%">
+```
+### 🧩 Browser Extensions
+
+Handy extensions that improve browsing, accessibility, and productivity.
+
+```{=html}
+</td>
+```
+```{=html}
+<td width="50%">
+```
+### 🔐 Ethical Cybersecurity
+
+Learning projects, defensive utilities, and responsible security
+research.
+
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
 </table>
+```
+## 🧰 Technologies & Tools
 
-## `toolkit` — Tools & Technologies
-
+```{=html}
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,linux,bash&theme=dark" alt="Technology icons"/>
+```
+`<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,linux&theme=dark" alt="Technology icons" />`{=html}
+```{=html}
 </p>
+```
+## 📊 GitHub Overview
 
+```{=html}
 <p align="center">
-  <img src="https://img.shields.io/badge/Open%20Source-181717?style=for-the-badge&logo=github&logoColor=white" alt="Open Source"/>
-  <img src="https://img.shields.io/badge/Web%20Development-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Web Development"/>
-  <img src="https://img.shields.io/badge/Ethical%20Security-6A5ACD?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Ethical Security"/>
+```
+`<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=0B1020&title_color=00F7A5&icon_color=7C3AED&text_color=E5E7EB" alt="GitHub stats" />`{=html}
+`<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=0B1020&title_color=00F7A5&text_color=E5E7EB" alt="Top languages" />`{=html}
+```{=html}
 </p>
+```
+```{=html}
+<p align="center">
+```
+`<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&hide_border=true&background=0B1020&ring=00F7A5&fire=7C3AED&currStreakLabel=00F7A5&sideLabels=E5E7EB&dates=9CA3AF&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub contribution streak" />`{=html}
+```{=html}
+</p>
+```
+## 🎯 Currently Working Toward
 
-## `git stats` — GitHub Activity
+-   [ ] Building helpful AI-powered tools.
+-   [ ] Publishing useful browser extensions.
+-   [ ] Creating clean and accessible web apps.
+-   [ ] Improving secure coding and defensive cybersecurity skills.
+-   [ ] Turning ideas into projects people can actually use.
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=saiddeveloper660&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=7C3AED&text_color=C9D1D9&rank_icon=github" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saiddeveloper660&layout=compact&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9" alt="Top languages"/>
-</div>
+## 🤝 Connect & Collaborate
 
-<div align="center">
-  <img width="95%" src="https://streak-stats.demolab.com?user=saiddeveloper660&theme=github-dark-blue&hide_border=true&ring=00E5FF&fire=7C3AED&currStreakLabel=00E5FF" alt="GitHub streak stats"/>
-</div>
+Have an idea for a useful tool, a suggestion, or a project to build
+together? Feel free to open an issue or discussion in one of my
+repositories.
 
-## `contributions` — Contribution Graph
+::: {align="center"}
+`<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Build+with+purpose.;Stay+curious.;Keep+learning.;Make+technology+useful." alt="Animated closing line" />`{=html}
 
-<div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=saiddeveloper660&bg_color=0d1117&color=c9d1d9&line=00e5ff&point=7c3aed&area=true&hide_border=true" alt="GitHub contribution activity graph"/>
-</div>
+`<br>`{=html}
 
-## `connect` — Let's Build Something Useful
+`<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=00F7A5&label=PROFILE+VIEWS" alt="Profile views" />`{=html}
 
-<div align="center">
-  <a href="https://github.com/saiddeveloper660">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="Follow on GitHub"/>
-  </a>
-  <a href="https://www.saidddeveloper.com">
-    <img src="https://img.shields.io/badge/Website-saidddeveloper.com-00C7D9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
-  </a>
-  <br/><br/>
-  <i>Open to collaboration on useful open-source projects.</i>
-  <br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:7C3AED&height=100&section=footer" width="100%" alt="Footer banner"/>
-</div>
+`<sub>`{=html}Designed with code, curiosity, and ☕`</sub>`{=html}
+:::
